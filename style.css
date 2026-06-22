@@ -102,11 +102,11 @@ button{
 }
 .bt11{
       background-color: #f5a623;
-      padding: 0.6rem;
+      padding: 0.9rem 2rem;
       font-size: 1rem;
       border-radius: 50px;
       cursor: pointer;
-      width: 18%;
+      width: auto;
 }
 .bt2{
     display: flex;
@@ -115,10 +115,10 @@ button{
           background-color:transparent;
        color: white;
           border: white solid ;
-      padding: 0.6rem;
+      padding:0.9rem 2rem;
       font-size: 1rem;
       border-radius: 50px;
-      width: 18%;
+      width: auto;
       cursor: pointer;
       text-decoration: none;
 }
