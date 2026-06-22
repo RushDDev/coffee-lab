@@ -45,9 +45,7 @@ body{
     background-color: #3d0c02;
 
 }
-html{
-overflow: hidden;
-}
+
 
 .hero-text{
     display: flex;
