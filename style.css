@@ -242,6 +242,10 @@ font-size: 1.5rem;
     justify-content: center;
     align-items: center;
 }
+.menu-ft img{
+    max-width: 100%;
+    height: auto;
+}
 .osi{
     display: flex;
     justify-content: center;
